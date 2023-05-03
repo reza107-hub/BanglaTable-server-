@@ -1,11 +1,53 @@
 [
   {
-    "chef_id": "sk40nr200l8000",
+    "chef_id": "sk40nr250l10000",
     "name": "Chef Nayeem Ashraf",
-    "experience": 45,
+    "experience": 15,
     "recipes": 250,
     "likes": 10000,
-    "image": "https://i.ibb.co/YRPWjpz/0-8d0v-B1-Es-R6-RUt-Rny.jpg"
+    "image": "https://i.ibb.co/YRPWjpz/0-8d0v-B1-Es-R6-RUt-Rny.jpg",
+    "bio": "Chef Nayeem Ashraf is a renowned chef with over 15 years of experience in cooking Bangladeshi cuisine. He has created over 250 unique and delicious recipes that have been enjoyed by thousands of satisfied customers.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   },
   {
     "chef_id": "ni35ni150l5000",
@@ -13,7 +55,49 @@
     "experience": 40,
     "recipes": 200,
     "likes": 8000,
-    "image": "https://i.ibb.co/N6y4NBw/Chef-Moniruzzaman.jpg"
+    "image": "https://i.ibb.co/N6y4NBw/Chef-Moniruzzaman.jpg",
+    "bio": "Chef Saif Hasan has 35 years of experience in cooking and has created 150 unique recipes. With 6000 likes, he is a renowned chef in the culinary world. He has a passion for exploring different cooking styles and experimenting with various ingredients. His innovative dishes have won the hearts of many food lovers. His cooking style is a perfect blend of traditional and modern techniques, which makes his dishes stand out. His recipes are a true representation of the rich Bengali cuisine. Chef Saif Hasan's expertise and creativity have made him a well-known name in the food industry.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   },
   {
     "chef_id": "nz30ni100l4000",
@@ -21,7 +105,49 @@
     "experience": 35,
     "recipes": 150,
     "likes": 6000,
-    "image": "https://i.ibb.co/Rhh48qT/1665861249872.jpg"
+    "image": "https://i.ibb.co/Rhh48qT/1665861249872.jpg",
+    "bio": "Chef Moniruzzaman is a highly experienced chef with over 40 years of experience in cooking traditional Bangladeshi dishes. He has created over 200 unique and delicious recipes that have been enjoyed by thousands of satisfied customers.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   },
   {
     "chef_id": "tm25tm75l3000",
@@ -29,7 +155,49 @@
     "experience": 30,
     "recipes": 125,
     "likes": 5000,
-    "image": "https://i.ibb.co/JKb6CmR/img-20200809-19244519702735.jpg"
+    "image": "https://i.ibb.co/JKb6CmR/img-20200809-19244519702735.jpg",
+    "bio": "Chef Mohammad AliSous has over 30 years of experience in the culinary industry. He is known for his expertise in creating dishes that perfectly blend traditional flavors with modern techniques. Chef AliSous has worked in several high-end restaurants and hotels, including the Ritz-Carlton, where he served as a sous chef.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   },
   {
     "chef_id": "fr20cf50l2000",
@@ -37,7 +205,49 @@
     "experience": 25,
     "recipes": 100,
     "likes": 4000,
-    "image": "https://i.ibb.co/CtgTy1n/images-q-tbn-ANd9-Gc-THBKcq-Vv-JKq-m-P-RTFuofi-Ie-BNjl-NDdhek-KQ-usqp-CAU.jpg"
+    "image": "https://i.ibb.co/2WctmnS/image.png",
+    "bio": "Chef Shohidul Islam is a renowned chef with over 25 years of experience in the culinary industry. He is an expert in traditional Bangladeshi cuisine and has been praised for his innovative approach to cooking. Chef Shohidul has worked in various prestigious hotels and restaurants in Bangladesh and has also traveled internationally to showcase his cooking skills. He is known for using fresh and local ingredients in his dishes and is passionate about promoting the rich flavors of Bangladeshi cuisine to a wider audience.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   },
   {
     "chef_id": "kf18kf30l1000",
@@ -45,6 +255,48 @@
     "experience": 20,
     "recipes": 75,
     "likes": 3000,
-    "image": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg"
+    "image": "https://i.ibb.co/pRzZv51/image-1.png",
+    "bio": "Chef Salah Uddin is a renowned Bangladeshi chef with 20 years of experience in the culinary industry. He has gained a reputation for his expertise in traditional Bangladeshi cuisine and is known for his unique recipes that blend traditional flavors with modern techniques. Chef Uddin's passion for cooking began at a young age, and he has since dedicated his life to perfecting his craft. He has worked in various prestigious restaurants and hotels in Bangladesh and abroad, showcasing his culinary skills to food lovers worldwide.",
+    "recipes_info": [
+      {
+        "name": "Chingri Bhapa",
+        "ingredients": [
+          "1 lb of shrimp",
+          "1/2 cup of grated coconut",
+          "1/2 cup of mustard paste",
+          "2-3 green chillies",
+          "1/4 tsp turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "Chingri Bhapa is a popular Bengali dish that consists of steamed prawns or shrimp cooked in a rich and flavorful coconut and mustard gravy. To make Chingri Bhapa, first, clean and devein the prawns or shrimp and marinate them with salt and turmeric. Next, prepare the gravy by mixing together grated coconut, mustard seeds, green chili, salt, and a little water in a blender or food processor. Then, heat oil in a pan and add the gravy mixture, cooking until fragrant. Add the prawns/shrimp to the pan and stir well, making sure they are coated in the gravy. Finally, transfer the mixture to a bowl, cover it with foil, and steam for around 10-15 minutes until the prawns/shrimp are cooked through and the gravy is thick and creamy. Serve hot with rice or bread.",
+        "rating": "4.5/5"
+      },
+      {
+        "name": "Kacchi Biryani",
+        "ingredients": [
+          "1 lb of mutton",
+          "2 cups of basmati rice",
+          "1/2 cup of yogurt",
+          "2-3 tbsp of ghee",
+          "1/4 tsp of saffron",
+          "Salt to taste"
+        ],
+        "cooking_method": "To make Kacchi Biryani, first marinate the meat with yogurt, ginger-garlic paste, chili powder, cumin powder, coriander powder, garam masala, salt, and oil for at least 2-3 hours. Then, in a large pot, add the marinated meat and layer it with sliced onions, chopped mint and coriander leaves, and boiled eggs. Top it with soaked basmati rice, saffron-infused milk, and fried onions. Seal the pot with dough and cook it over low heat for 2-3 hours until the rice and meat are fully cooked and infused with the aromatic spices. Serve hot with raita and salad.",
+        "rating": "4/5"
+      },
+      {
+        "name": "Shorshe Ilish",
+        "ingredients": [
+          "1 lb of hilsa fish",
+          "1/2 cup of mustard paste",
+          "1/4 cup of yogurt",
+          "2-3 green chillies",
+          "1/2 tsp of turmeric powder",
+          "Salt to taste"
+        ],
+        "cooking_method": "To prepare Shorshe Ilish, first marinate the ilish fish with turmeric and salt for 10-15 minutes. Then, fry the fish in mustard oil until golden brown and set aside. In the same pan, add some more mustard oil and fry sliced onions until golden brown. Add ginger paste, garlic paste, and green chilies and cook for a few minutes. Next, add a tablespoon of mustard paste and mix well with the onion mixture. Gradually add water and keep stirring until the mustard mixture is cooked and oil starts separating. Add salt and sugar to taste. Finally, add the fried ilish fish to the mustard gravy and let it cook for a few minutes until the gravy thickens. Serve hot with steamed rice.",
+        "rating": "5/5"
+      }
+    ]
   }
 ]
