@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Biriyani",
+    "image": "https://t3.ftcdn.net/jpg/04/59/27/88/360_F_459278894_92eSlejnR7NSwJRCbVyy9ZZibSmjbF8q.jpg",
+    "description": "Famous mixed rice dish with spices, meat, and vegetables"
+  },
+  {
+    "id": 2,
+    "name": "Chapli Kebab",
+    "image": "https://cdn.scrambledchefs.com/wp-content/uploads/2016/02/Spicy-Indian-Chapli-Kebabs-Scrambled-Chefs-Recipe-720x540.jpg",
+    "description": "Spicy beef patty, perfect as a snack or appetizer"
+  },
+  {
+    "id": 3,
+    "name": "Pitha",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2017/28-march/Sweet_Rice_Dumplings_Recipe_Mohura_Pitha-1.jpg",
+    "description": "Assortment of sweet and savory rice cakes, a traditional dessert"
+  },
+  {
+    "id": 4,
+    "name": "Shorshe Ilish",
+    "image": "https://www.bongcravings.com/wp-content/uploads/2017/01/photo-2B1.jpg",
+    "description": "Hilsa fish cooked in mustard sauce, a Bengali delicacy"
+  },
+  {
+    "id": 5,
+    "name": "Dal Tadka",
+    "image": "https://www.mygingergarlickitchen.com/wp-content/rich-markup-images/1x1/1x1-restaurant-style-tadka-dal-recipe-how-to-make-dal-tadka.jpg",
+    "description": "Lentil soup with aromatic spices, a staple in Indian cuisine"
+  },
+  {
+    "id": 6,
+    "name": "Aloo Posto",
+    "image": "https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/5c78acdb86beb7344fdb888f_Alu-posto-website-thumbnail.png.jpg",
+    "description": "Potato curry with poppy seed paste, a vegetarian favorite"
+  },
+  {
+    "id": 7,
+    "name": "Beef Bhuna",
+    "image": "https://www.curry-pot.com/wp-content/uploads/2016/12/beef-bhuna-1024x683.jpg",
+    "description": "Slow-cooked spicy beef with onions and peppers"
+  },
+  {
+    "id": 8,
+    "name": "Fuchka",
+    "image": "https://www.dhakafoodster.com/wp-content/uploads/2020/09/Banani-11-bridge-fuchka.jpg",
+    "description": "Small, crispy hollow balls filled with tamarind water and spices"
+  }
+]

@@ -2,13 +2,17 @@ const express = require('express')
 const app = express()
 const port = process.env.PORT || 3000
 const cors = require('cors')
-const chef = require('./chef.json')
+const chefs = require('./chef.json')
+const recipes = require('./recipes.json')
 app.use(cors())
 app.get('/', (req, res) => {
     res.send('Hello World!')
 })
-app.get('/chef', (req, res) => {
-    res.send(chef)
+app.get('/chefs', (req, res) => {
+    res.send(chefs)
+})
+app.get('/recipes', (req, res) => {
+    res.send(recipes)
 })
 
 app.listen(port, () => {
